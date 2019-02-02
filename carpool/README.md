@@ -3,7 +3,7 @@
 
 ## Carpool Roadmap
 
-
+<img src="Images/Carpool_GANTT_chart.PNG">
 
 ### **_Sprint #1 (1/26)_**
 
